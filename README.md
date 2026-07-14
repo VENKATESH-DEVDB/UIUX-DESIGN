@@ -14,9 +14,9 @@ The goal of this repository is to:
 
 ## 🛠️ Tech Stackt 
 
-- **HTML5** 
-- **CSS3** 
-- **JavaScript (ES6+)** 
+- **HTML** 
+- **CSS** 
+- **JavaScript ** 
 
 
 
